@@ -1,1 +1,1 @@
-# CMCL
+### The source code of paper "Contrastive Multi-bit Collaborative Learning for Deep Cross-modal Hashing".
