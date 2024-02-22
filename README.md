@@ -31,9 +31,8 @@ Pretrained CLIP model could be found in the 30 lines of [CLIP/clip/clip.py](http
 This code is based on the "ViT-B/32". 
 You should download "ViT-B/32" and put it in `./cache`, or you can find it from the following link:
 
-
-link：https://pan.baidu.com/s/1jCYEBhm-bpikAh_Bti139g 
-password：9idm
+link: https://pan.baidu.com/s/1ZyDTR2IEHlY4xIdLgxtaVA 
+password: kdq7
 
 
 #### 3.2 Generate dataset
@@ -61,8 +60,9 @@ More details about the generation, meaning, and format of each mat file could be
 
 Additionally, cleaned datasets (MIRFLICKR25K & MSCOCO & NUSWIDE) used in our experiments are available at `pan.baidu.com`:
 
-link：https://pan.baidu.com/s/1jCYEBhm-bpikAh_Bti139g 
-password：9idm
+link: https://pan.baidu.com/s/1ZyDTR2IEHlY4xIdLgxtaVA 
+password: kdq7
+
 
 ### 4. Train
 
